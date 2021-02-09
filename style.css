@@ -1,0 +1,12 @@
+label, input{
+    display: inline;
+    margin-bottom: 10px;
+}
+
+#dec {
+    border: none;
+}
+
+button {
+    display: block;
+}
